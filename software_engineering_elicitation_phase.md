@@ -1,7 +1,6 @@
 **ABSTRACT**
 
-Describing the strengths and weaknesses of users during the requirements elicitation activity. 
-I'll focus also on the strengths and weaknesses of developers during the requirements elicitation activity.
+In this paper I'll focus also on the strengths and weaknesses of developers during the requirements elicitation activity.
 
 **DISCUSSION**
 
