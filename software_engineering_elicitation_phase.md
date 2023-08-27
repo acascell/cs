@@ -1,6 +1,6 @@
 **ABSTRACT**
 
-In this paper I'll focus also on the strengths and weaknesses of developers during the requirements elicitation activity.
+In this paper I'll focus on the strengths and weaknesses of developers during the requirements elicitation activity.
 
 **DISCUSSION**
 
